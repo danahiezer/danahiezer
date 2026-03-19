@@ -33,17 +33,7 @@ I enjoy building practical projects — from network sockets to web scraping pip
 - Exploring web scraping and database integration with PostgreSQL
 - Strengthening backend fundamentals
 
----
 
-## 📊 GitHub Stats
-
-![danahiezer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danahiezer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danahiezer&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=danahiezer&theme=tokyonight&hide_border=true)
-
----
 
 ## 📫 Contact
 
