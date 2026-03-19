@@ -1,12 +1,12 @@
 # Hola, soy danahiezer 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Desarrolladora+Python;Entusiasta+de+Datos+%26+Backend;Siempre+aprendiendo%2C+siempre+construyendo)](https://github.com/danahiezer)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Desarrollador+Python;Entusiasta+de+Datos+%26+Backend;Siempre+aprendiendo%2C+siempre+construyendo)](https://github.com/danahiezer)
 
 ---
 
 ## Sobre mí
 
-Soy desarrolladora con enfoque en Python, procesamiento de datos y sistemas backend.  
+Soy desarrollador con enfoque en Python, procesamiento de datos y sistemas backend.  
 Me gusta construir proyectos prácticos — desde sockets de red hasta pipelines de web scraping con bases de datos reales.
 
 ---
@@ -33,8 +33,8 @@ Me gusta construir proyectos prácticos — desde sockets de red hasta pipelines
 - Explorando web scraping e integración con PostgreSQL
 - Fortaleciendo fundamentos de backend
 
+---
 
+## 📊 Estadísticas de GitHub
 
-## 📫 Contacto
-
-[![GitHub](https://img.shields.io/badge/danahiezer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danahiezer)
+![Estadísticas de danahiezer](https://github-readme-sta
