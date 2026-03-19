@@ -1,24 +1,24 @@
-# Hi, I'm danahiezer 👋
+# Hola, soy danahiezer 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Python+Developer;Data+%26+Backend+Enthusiast;Always+learning%2C+always+building)](https://github.com/danahiezer)
-
----
-
-## About Me
-
-I'm a developer with a focus on Python, data processing, and backend systems.  
-I enjoy building practical projects — from network sockets to web scraping pipelines with real databases.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Desarrolladora+Python;Entusiasta+de+Datos+%26+Backend;Siempre+aprendiendo%2C+siempre+construyendo)](https://github.com/danahiezer)
 
 ---
 
-## 🛠️ Tech Stack
+## Sobre mí
 
-**Languages**
+Soy desarrolladora con enfoque en Python, procesamiento de datos y sistemas backend.  
+Me gusta construir proyectos prácticos — desde sockets de red hasta pipelines de web scraping con bases de datos reales.
+
+---
+
+## 🛠️ Tecnologías
+
+**Lenguajes**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Tools & Databases**
+**Herramientas y Bases de Datos**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -27,14 +27,14 @@ I enjoy building practical projects — from network sockets to web scraping pip
 
 ---
 
-## 📌 What I'm Working On
+## 📌 En qué estoy trabajando
 
-- Building projects with Python: OOP, sockets, and data pipelines
-- Exploring web scraping and database integration with PostgreSQL
-- Strengthening backend fundamentals
+- Construyendo proyectos con Python: POO, sockets y pipelines de datos
+- Explorando web scraping e integración con PostgreSQL
+- Fortaleciendo fundamentos de backend
 
 
 
-## 📫 Contact
+## 📫 Contacto
 
 [![GitHub](https://img.shields.io/badge/danahiezer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danahiezer)
