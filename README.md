@@ -1,4 +1,4 @@
-# Hola, soy danahiezer 👋
+# Hola, soy Dan Ahiezer 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Desarrollador+Python;Desarrollador+Full+Stack;Entusiasta+de+Datos+%26+Backend;Siempre+aprendiendo%2C+siempre+construyendo)](https://github.com/danahiezer)
 
